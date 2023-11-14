@@ -19,6 +19,8 @@ The `devfile.yaml` includes configurations for:
 
 You can use the provided DevSpace to start working on your Ansible projects immediately, without worrying about setting up the development environment manually.
 
+Will use the k8s.core module instead of the soon to be deprecated kubernetes.community
+
 ## Setting up OpenShift DevSpaces
 
 To get started with OpenShift Dev Spaces, refer to the [OpenShift Dev Spaces documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_dev_spaces/3.5/html/administration_guide/index) for detailed instructions on setting up your development environment and creating your DevSpaces.
